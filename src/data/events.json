@@ -1,0 +1,23 @@
+{
+    "eventos": [
+      {
+        "id": 1,
+        "titulo": "Festa de Aniversário",
+        "data": "2024-11-01",
+        "local": "São Paulo",
+        "descricao": "Uma grande festa para comemorar meu aniversário."
+      },
+      {
+        "id": 2,
+        "titulo": "Conferência de Tecnologia",
+        "data": "2024-11-05",
+        "local": "Rio de Janeiro",
+        "descricao": "Uma conferência sobre as últimas inovações tecnológicas."
+      }
+    ],
+    "participantes": {
+      "1": [],
+      "2": []
+    }
+  }
+  
